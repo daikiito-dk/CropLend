@@ -6,7 +6,7 @@
 * **Tagline:** *The Hardware-Agnostic Credit & Compliance Middleware for Precision Agriculture*
 * **Product Positioning:**
 * Independent B2B Ag-FinTech middleware specifically designed for **open-field precision agriculture, embedded finance (Arvest Bank, regional lenders), and ESG compliance**.
-* Fully separated from **VeriAgri** (which remains focused on indoor hydroponics and controlled environment agriculture / CEA).
+* Fully separated from **VeriAgri** (which also targets open-field precision agriculture, but remains focused on the multi-vendor data hub and audit-ready ESG reporting; CropLend owns the credit & lending layer).
 
 
 * **Core Value Proposition:**
@@ -104,7 +104,7 @@
 
 | Asset | Legacy Specification | **CropLend Specification** |
 | --- | --- | --- |
-| **Product Focus** | Indoor CEA + Finance (Combined) | **Open-field Ag-FinTech Middleware (Standalone)** |
+| **Product Focus** | Open-field Data Hub + Finance (Combined) | **Open-field Ag-FinTech Middleware (Standalone)** |
 | **Schema URI** | `schema.veriagri.io` | `[https://schema.croplend.io/v1/croplend-payload.json](https://schema.croplend.io/v1/croplend-payload.json)` |
 | **MCP Server Name** | `VeriAgri-MCP-Server` | `CropLend-MCP-Server` |
 | **Python OSS Package** | `veriagri-connectors` | `croplend-connectors` |
